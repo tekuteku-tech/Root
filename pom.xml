@@ -39,4 +39,8 @@
 	</build>
 
 	<packaging>pom</packaging>
+
+	<modules>
+		<module>../Library</module>
+	</modules>
 </project>
