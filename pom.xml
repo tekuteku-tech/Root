@@ -39,5 +39,6 @@
 	<modules>
 		<module>../Library</module>
 		<module>../Application1</module>
+		<module>../Application2</module>
 	</modules>
 </project>
