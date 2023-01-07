@@ -40,5 +40,6 @@
 		<module>../Library</module>
 		<module>../Application1</module>
 		<module>../Application2</module>
+		<module>../Application3-log4j2</module>
 	</modules>
 </project>
